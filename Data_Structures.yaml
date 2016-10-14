@@ -1,5 +1,15 @@
 curator: Charlotte
 goal: Data Structures
 checkpoints:
-  - task:
-    resource-url:
+  - task: Start at Index Cards
+    resource-url: 'http://takingnotenow.blogspot.be/2007/12/luhmanns-zettelkasten.html'
+  - task: Organise Your Music Differently
+    resource-url: 'https://www.youtube.com/watch?v=AQvOnDlql5g'
+  - task: Discover Various Data Structures
+    resource-url: 'https://www.youtube.com/watch?v=92S4zgXN17o&feature=youtu.be'
+  - task: Learn about Simple Data Structures
+    resource-url: ''
+  - task: Move to Compolex Data Structures
+    resource-url: ''
+  - task: Use the Same Concepts in Every Language
+    resource-url: ''
