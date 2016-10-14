@@ -1,21 +1,11 @@
 curator: Charlotte
-goal: JSON
+goal: Master JSON
 checkpoints:
-  - task: Don't Learn XML Anymore
-    resource-url: 'https://www.google.com/trends/explore?q=xml,json'
-  - task: Know the Benefits of JSON
-    resource-url: 'http://www.cio.com/article/3082084/web-development/xml-is-toast-long-live-json.html' xxx
-  - task: Idem
-    resource-url: 'http://www.json.org/xml.html' xxx
-  - task: Get Started with JSON
+  - task: Meet JSON
     resource-url: 'https://www.wired.com/2010/02/get_started_with_json/'
-  - task: Explore JSON Objects
+  - task: Explore JSON
     resource-url: 'http://embed.ly/docs/explore/oembed?url=http%3A%2F%2Fnytimes.com'
-  - task: JSON Formatting + Javascript Integration
-    resource-url: 'http://www.w3schools.com/js/js_json.asp' xxx
-  - task: Idem
-    resource-url: 'http://www.w3schools.com/js/js_json_intro.asp' xxx
-  - task: Idem
-    resource-url: 'http://www.freeformatter.com/json-formatter.html' xxx
-  - task: Play Around With JSON (in DevTools)
-    resource-url: ''
+  - task: Practice JSON
+    resource-url: 'https://www.codecademy.com/courses/javascript-beginner-en-xTAfX/0/1'
+  - task: Format JSON
+    resource-url: 'http://www.freeformatter.com/json-formatter.html'

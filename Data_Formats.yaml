@@ -1,5 +1,13 @@
 curator: Charlotte
 goal: Data Formats
 checkpoints:
-  - task: 
-    resource-url:
+  - task: Encode and Decode
+    resource-url: http://searchnetworking.techtarget.com/definition/encoding-and-decoding
+  - task: Pick a Format
+    resource-url: https://www.youtube.com/watch?v=xsDk5_bktFo
+  - task: Encrypt your Data
+    resource-url: http://www.counton.org/explorer/codebreaking/enigma-cipher.php
+  - task: Classify the Formats
+    resource-url: https://www.nayuki.io/page/what-are-binary-and-text-files
+  - task: Become A Spy (optional)
+    resource-url: https://www.khanacademy.org/computing/computer-science/cryptography

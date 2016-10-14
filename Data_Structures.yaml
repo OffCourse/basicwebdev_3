@@ -3,20 +3,3 @@ goal: Data Structures
 checkpoints:
   - task:
     resource-url:
-
-Serialisation/deserialisation
-- http://www.careerbless.com/java/serialization/serialization.php
-- http://flexjson.sourceforge.net/
-- http://www.codeproject.com/Articles/33296/Serialization-and-De-serialization
-- http://www.csharpstar.com/serialize-and-deserialize-data-csharp/
-
-Binary/text files
-- https://www.nayuki.io/page/what-are-binary-and-text-files
-
-Encoding/decoding:
-- http://searchnetworking.techtarget.com/definition/encoding-and-decoding
-- https://www.youtube.com/watch?v=UPlR4eMMCmI
-- http://www.newinfluencer.com/mediapedia/encoding-decoding/ (?)
-- http://www.counton.org/explorer/codebreaking/enigma-cipher.php
-- https://encoder.mattiasgeniar.be/
-- https://www.khanacademy.org/computing/computer-science/cryptography (bonus)
