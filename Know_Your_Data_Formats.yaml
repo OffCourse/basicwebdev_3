@@ -1,5 +1,5 @@
 curator: Charlotte
-goal: Data Formats
+goal: Know Your Data Formats
 checkpoints:
   - task: Encode and Decode
     resource-url: 'http://searchnetworking.techtarget.com/definition/encoding-and-decoding'
