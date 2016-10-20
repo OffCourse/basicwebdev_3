@@ -2,7 +2,7 @@ curator: Charlotte
 goal: Browser Console
 checkpoints:
   - task: Find the Console
-    resource-url: https://www.youtube.com/watch?v=SZi4lefCUpY
+    resource-url: 'https://www.youtube.com/watch?v=SZi4lefCUpY'
   - task: Work with the Console
     resource-url: 'http://discover-devtools.codeschool.com/chapters/3/challenges/1?locale=en'
   - task: Master the Console
