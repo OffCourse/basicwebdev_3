@@ -3,11 +3,9 @@ goal: Data Formats
 checkpoints:
   - task: Encode and Decode
     resource-url: 'http://searchnetworking.techtarget.com/definition/encoding-and-decoding'
-  - task: Pick a Format
+  - task: Learn an Early Encoding Tecnique 
     resource-url: 'https://www.youtube.com/watch?v=xsDk5_bktFo'
-  - task: Encrypt your Data
-    resource-url: 'http://www.counton.org/explorer/codebreaking/enigma-cipher.php'
-  - task: Classify the Formats
+  - task: Encode Text in Binary Notation
+    resource-url: 'https://www.youtube.com/watch?v=UPlR4eMMCmI'
+  - task: Pick or Classify Your Format
     resource-url: 'https://www.nayuki.io/page/what-are-binary-and-text-files'
-  - task: Become A Spy (optional)
-    resource-url: 'https://www.khanacademy.org/computing/computer-science/cryptography'
