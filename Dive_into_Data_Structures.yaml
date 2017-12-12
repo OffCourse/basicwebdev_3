@@ -6,3 +6,5 @@ checkpoints:
     resource-url: 'https://www.youtube.com/watch?v=AQvOnDlql5g/'
   - task: Discover Various Data Structures
     resource-url: 'https://www.youtube.com/watch?v=92S4zgXN17o&feature=youtu.be/'
+  - task: Overview of Data Structures
+    resource-url: 'http://www.geeksforgeeks.org/overview-of-data-structures-set-1-linear-data-structures/'
